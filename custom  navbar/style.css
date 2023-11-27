@@ -4,3 +4,32 @@
         --white: #fff;
         --lightred: #f9433dcc;
 }
+
+* {
+        font-family: 'Nunito', sans-serif;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+
+}
+
+.nav-container {
+        width: 100%;
+        background-color: var(--darkgray);
+}
+
+navbar {
+        display: grid;
+        grid-template-columns: 0.2fr auto 1fr;
+        align-items: center;
+        height: 80px;
+        width: 90%;
+        max-width: 170px;
+        margin: 0 auto;
+}
+
+#navbar-logo {
+        color: var(--white);
+        justify-self: start;
+        margin-left: 20px;
+}
