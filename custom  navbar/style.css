@@ -33,3 +33,7 @@ navbar {
         justify-self: start;
         margin-left: 20px;
 }
+
+#navbar-logo {
+        cursor: pointer;
+}
