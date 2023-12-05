@@ -70,3 +70,7 @@ li a:after {
         border-width: 5px 5px 0 5px;
         transition: all .4s;
 }
+li:hover a:after {
+        border-color: white transparent transparent transparent;
+        transition: all .4s;
+}
