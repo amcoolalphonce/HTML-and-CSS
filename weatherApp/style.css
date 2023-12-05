@@ -96,3 +96,7 @@ li:hover a:after {
         box-shadow: 0 0 5px 0 rgba(255, 255, 255, 0.7);
         transition: all .4s;
 }
+.selected:after {
+        border-color: white transparent transparent transparent;
+        transition: all .4s;
+}
