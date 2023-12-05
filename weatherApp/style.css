@@ -74,3 +74,13 @@ li:hover a:after {
         border-color: white transparent transparent transparent;
         transition: all .4s;
 }
+.menu2 {
+        width: 350px;
+}
+
+.menu2 a {
+        font-family: georgia;
+        font-size: 14px;
+        font-style: italic;
+        text-transform: capitalize;
+}
