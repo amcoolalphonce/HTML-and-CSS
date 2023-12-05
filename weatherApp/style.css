@@ -40,3 +40,14 @@ li:first-child {
 li:last-child {
         border-radius: 0 5px 5px 0;
 }
+a {
+        display: block;
+        padding: 10px 13px;
+        font-size: 26px;
+        text-decoration: none;
+        border-radius: 5px;
+        position: relative;
+        top: 0;
+        color: #FFF;
+        transition: all .4s;
+}
