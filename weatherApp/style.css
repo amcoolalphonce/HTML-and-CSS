@@ -8,3 +8,13 @@ nav {
         margin: 50px auto;
         width: 290px;
 }
+
+menu {
+        border-radius: 3px;
+}
+
+menu:after,
+menu:before {
+        display: block;
+        content: ' ';
+}
