@@ -33,3 +33,10 @@ li {
         border-top: 2px solid rgba(200, 200, 255, 0.5);
         border-bottom: 2px solid rgba(50, 50, 50, 0.4);
 }
+li:first-child {
+        border-radius: 5px 0 0 5px;
+}
+
+li:last-child {
+        border-radius: 0 5px 5px 0;
+}
