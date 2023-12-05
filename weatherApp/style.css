@@ -18,3 +18,7 @@ menu:before {
         display: block;
         content: ' ';
 }
+
+menu:after {
+        clear: both;
+}
