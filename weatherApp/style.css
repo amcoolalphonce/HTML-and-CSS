@@ -100,3 +100,6 @@ li:hover a:after {
         border-color: white transparent transparent transparent;
         transition: all .4s;
 }
+a.fun {
+        display: none;
+}
