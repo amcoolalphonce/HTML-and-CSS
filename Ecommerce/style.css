@@ -49,12 +49,14 @@
     color: black;
     display: block
 }
-       #myMenu li a:hover {
-            background-color: #eee;
-        }
-       footer {
-            text-align: center;
-            padding: 6px;
-            background-color: rgb(95, 11, 101);
-            color: white;
-        }
+#myMenu li a:hover 
+{
+    background-color: #eee;
+}
+footer
+{
+    text-align: center;
+    padding: 6px;
+    background-color: rgb(95, 11, 101);
+    color: white;
+}
