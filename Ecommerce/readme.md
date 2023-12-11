@@ -1,1 +1,1 @@
-This Ecommerce html an dcss is for use by django app
+## This Ecommerce HTML and CSS is for use by django app
