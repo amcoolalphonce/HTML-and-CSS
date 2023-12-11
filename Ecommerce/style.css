@@ -16,16 +16,19 @@
 {
     background-color: #000;
 }
+.active
+{
+    background-color: #04AA6D;
+}
+ @media screen and (max-width: 500px) 
+{
+    .navbar a
+        {
+            float: none;
+            display: block;
+         }
+}
 
-  .active {
-            background-color: #04AA6D;
-        }
- @media screen and (max-width: 500px) {
-            .navbar a {
-                float: none;
-                display: block;
-            }
-        }
        #mySearch {
             width: 100%;
             font-size: 18px;
